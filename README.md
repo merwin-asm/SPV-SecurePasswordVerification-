@@ -1,7 +1,7 @@
 # SPV SecurePasswordVerification
 
 
-<p align="left" float="left"> <img src="https://komarev.com/ghpvc/?username=meriwn-SPV&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meriwn-SPV&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
 
 [![Downloads](https://static.pepy.tech/badge/spv)](https://pepy.tech/project/spv)
