@@ -1,5 +1,6 @@
 # SPV SecurePasswordVerification
 
+[![Downloads](https://static.pepy.tech/badge/spv)](https://pepy.tech/project/spv)
 
 Its is python module for doing a secure password  verification without sharing the password directly.
 
