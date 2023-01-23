@@ -2,10 +2,16 @@
 
 [![Downloads](https://static.pepy.tech/badge/spv)](https://pepy.tech/project/spv)
 
-Its is python module for doing a secure password  verification without sharing the password directly.
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=meriwn-SPV&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
+
+
+Its is python module for doing a secure password  verification without sharing the password directly.
+
+
+## Install
+
+      pip install SPV
 
 
 ## Features
